@@ -1,7 +1,7 @@
 # 👋 Welcome to My Portfolio
 
 ## 🎯 About Me
-Hi, I'm myuyen0304 - A passionate Data Engineer focused on building scalable data pipelines and implementing data solutions.
+Hi, I'm My Uyen - A passionate Data Engineer focused on building scalable data pipelines and implementing data solutions.
 
 ## 💼 Professional Summary
 - 🔭 I'm currently working on data pipeline optimization and data warehouse solutions
