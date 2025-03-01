@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 # 👋 Welcome to My Portfolio
 
 ## 🎯 About Me
-Hi, I'm myuyen0304 - A passionate developer focused on creating web applications and learning new technologies.
+Hi, I'm My Uyen- A passionate engineer focused on building data pipeline and learning new technologies.
 
 ## 💼 Professional Summary
 - 🔭 I'm currently working on improving my development skills
-- 🌱 I'm currently learning web development technologies
+- 🌱 I'm currently learning data technologies
 - 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about Web Development
+- 💬 Ask me about Data Engineering
+
 
 ## 🚀 My Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -39,7 +40,7 @@ Hi, I'm myuyen0304 - A passionate developer focused on creating web applications
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myuyen0304&layout=compact&theme=radical)
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-uyen-23a501253/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ## 🌟 Featured Projects
