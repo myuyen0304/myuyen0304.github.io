@@ -1,80 +1,155 @@
 # 👋 Welcome to My Portfolio
 
 ## 🎯 About Me
-Hi, I'm My Uyen - A passionate Data Engineer focused on building scalable data pipelines and implementing data solutions.
+Hi, I'm myuyen0304 - A passionate Data Engineer focused on building scalable data pipelines and implementing data solutions.
 
 ## 💼 Professional Summary
 - 🔭 I'm currently working on data pipeline optimization and data warehouse solutions
-- 🌱 I'm learning about real-time data processing and machine learning operations
+- 🌱 I'm learning about real-time data processing and MLOps
 - 💡 Interested in big data technologies and cloud computing
-- 🎯 Focused on building efficient ETL/ELT processes
+- 🎯 Specialized in building efficient ETL/ELT processes
 
 ## 🛠 Tech Stack
 
-### 📊 Data Processing & Analytics
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+### 💫 Programming & Scripting
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.scala-lang.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  </a>
+</p>
+
+### 🔥 Big Data & Processing
+<p align="left">
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="spark" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/favicon.ico" alt="airflow" width="40" height="40"/>
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+  </a>
+</p>
 
 ### 💾 Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=Snowflake&logoColor=white)
+<p align="left">
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
+</p>
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft%20Azure&logoColor=white)
+### ☁️ Cloud Services
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  </a>
+</p>
 
-### 🔧 Data Tools & Technologies
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=Apache%20Hadoop&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+### 🛠️ DevOps & Tools
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  </a>
+</p>
 
-### 📈 Data Visualization
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black)
+### 📊 Data Visualization
+<p align="left">
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+  </a>
+</p>
 
-### 🔍 Version Control & CI/CD
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+## 📈 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=myuyen0304&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myuyen0304&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myuyen0304&theme=radical" alt="GitHub Streak" />
+</p>
 
 ## 🌟 Featured Data Engineering Projects
 
-### 1. Data Pipeline Automation Project
-- Developed automated ETL pipelines using Apache Airflow
-- Implemented data quality checks and monitoring
-- Technologies: Python, Airflow, PostgreSQL, AWS S3
-- [Link to project]()
+### 1. Real-time Data Processing Pipeline
+- 🔄 Built end-to-end streaming data pipeline
+- 📊 Processed 1M+ events/day
+- 🛠️ Tech: Kafka, Spark Streaming, Redis, AWS
+- [View Project →](project-link)
 
-### 2. Real-time Analytics Platform
-- Built real-time data processing pipeline using Kafka and Spark Streaming
-- Implemented data warehouse solution in Snowflake
-- Technologies: Kafka, Spark, Snowflake, Python
-- [Link to project]()
+### 2. Data Warehouse Modernization
+- 🏗️ Migrated legacy DWH to modern cloud architecture
+- 📈 Improved query performance by 300%
+- 🛠️ Tech: Snowflake, dbt, Airflow, Python
+- [View Project →](project-link)
 
-### 3. Data Lake Implementation
-- Designed and implemented data lake architecture
-- Created data cataloging and governance framework
-- Technologies: AWS S3, AWS Glue, AWS Athena, Python
-- [Link to project]()
+### 3. ML Feature Store Platform
+- 🎯 Developed centralized feature management platform
+- 🔄 Supports both batch and real-time features
+- 🛠️ Tech: Redis, PostgreSQL, FastAPI, Docker
+- [View Project →](project-link)
 
-## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## 📫 Connect With Me
+<p align="left">
+<a href="your-linkedin-url" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
+</p>
 
-## 📚 Certifications
-- AWS Certified Data Analytics - Specialty
-- Google Cloud Professional Data Engineer
-- Azure Data Engineer Associate
+## 📜 Certifications
+<p align="left">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Certified" />
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Certified" />
+</a>
+</p>
 
 ---
-⭐️ Last updated: 2025-03-01
-⭐️ From [myuyen0304](https://github.com/myuyen0304)
+<p align="center">Last updated: 2024-03-01</p>
+<p align="center">⭐️ From <a href="https://github.com/myuyen0304">myuyen0304</a></p>
