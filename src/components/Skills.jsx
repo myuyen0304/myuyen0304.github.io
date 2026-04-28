@@ -1,33 +1,33 @@
 const skillGroups = [
   {
-    icon: '⚙️',
+    icon: '01',
     title: 'Backend',
-    tags: ['Node.js', 'Express', 'NestJS', 'REST API', 'GraphQL'],
+    tags: ['Node.js', 'NestJS', 'TypeScript', 'REST APIs'],
   },
   {
-    icon: '🌐',
-    title: 'Frontend',
-    tags: ['React', 'JavaScript', 'TypeScript', 'HTML/CSS'],
+    icon: '02',
+    title: 'Web fundamentals',
+    tags: ['HTML', 'CSS', 'JavaScript', 'React basics'],
   },
   {
-    icon: '🗄️',
-    title: 'Databases',
-    tags: ['PostgreSQL', 'MySQL', 'MongoDB', 'Redis'],
+    icon: '03',
+    title: 'Data & storage',
+    tags: ['MongoDB', 'SQL Server', 'Redis basics', 'Data modeling'],
   },
   {
-    icon: '📦',
-    title: 'Containers & Orchestration',
-    tags: ['Docker', 'Kubernetes', 'Docker Compose', 'Helm'],
+    icon: '04',
+    title: 'Tools',
+    tags: ['Docker', 'Docker Compose', 'Postman', 'Git', 'GitHub'],
   },
   {
-    icon: '🏗️',
-    title: 'Architecture',
-    tags: ['Microservices', 'REST', 'Message Queue', 'gRPC'],
+    icon: '05',
+    title: 'Project exposure',
+    tags: ['MVC pattern', 'Microservices', 'RabbitMQ', 'Socket.IO', 'CI/CD basics'],
   },
   {
-    icon: '🛠️',
-    title: 'DevOps & Tools',
-    tags: ['Git', 'GitHub Actions', 'Nginx', 'Linux', 'AWS'],
+    icon: '06',
+    title: 'Working habits',
+    tags: ['API testing', 'README docs', 'Debugging', 'Learning notes'],
   },
 ]
 
@@ -36,9 +36,10 @@ export default function Skills() {
     <section className="section" id="skills">
       <div className="container">
         <p className="section-label">Tech Stack</p>
-        <h2 className="section-title">Skills & Technologies</h2>
+        <h2 className="section-title">Skills I use in projects</h2>
         <p className="section-sub">
-          Tools and technologies I use to design, build, and ship backend systems.
+          I keep the stack focused on backend fundamentals and the tools I have
+          used in school and personal repositories.
         </p>
 
         <div className="skills__grid">

@@ -1,8 +1,8 @@
 const stats = [
-  { num: '2+',  label: 'Years Experience' },
-  { num: '10+', label: 'Projects Delivered' },
-  { num: '15+', label: 'REST APIs Built' },
-  { num: '99%', label: 'Uptime Target' },
+  { num: 'IS', label: 'Academic background' },
+  { num: '27', label: 'Public GitHub repos' },
+  { num: 'API', label: 'Backend focus' },
+  { num: 'Docker', label: 'Local deployment practice' },
 ]
 
 export default function About() {
@@ -12,15 +12,26 @@ export default function About() {
         <div className="about__grid">
           <div>
             <p className="section-label">About me</p>
-            <h2 className="section-title">Building systems that scale</h2>
+            <h2 className="section-title">
+              A backend fresher with an Information Systems foundation
+            </h2>
             <p className="section-sub">
-              I'm a Backend Developer focused on designing reliable, maintainable server-side
-              systems. I work across the full backend stack — REST APIs, microservices,
-              containerization, and cloud deployments.
+              I am a final-year student preparing to graduate and looking for a
+              fresher backend opportunity. My strongest interest is building
+              clear API flows, organizing server-side code, and understanding
+              how services connect through databases, queues, and containers.
             </p>
             <p className="section-sub" style={{ marginTop: 16 }}>
-              I enjoy breaking monoliths into clean microservices, optimizing API performance,
-              and shipping with Docker and Kubernetes to keep things consistent from dev to prod.
+              My portfolio is project-based rather than work-experience based.
+              I use GitHub projects to show how I learn: reading requirements,
+              designing data flow, testing APIs with Postman, and documenting
+              how a system can run locally with Docker.
+            </p>
+            <p className="section-sub" style={{ marginTop: 16 }}>
+              My goal is to join a team where I can learn how real products are
+              prepared, deployed, and operated in production. I want to grow by
+              contributing to larger systems, understanding production
+              constraints, and turning backend ideas into usable products.
             </p>
 
             <div className="about__stats">
@@ -35,7 +46,7 @@ export default function About() {
 
           <div className="about__visual">
             <div className="about__avatar">
-              <span style={{ position: 'relative', zIndex: 1 }}>👩‍💻</span>
+              <span>UM</span>
             </div>
           </div>
         </div>

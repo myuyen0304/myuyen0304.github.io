@@ -5,11 +5,11 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer__inner">
         <span className="footer__copy">
-          © 2025 myuyen0304 — built with React + Vite
+          Copyright 2026 myuyen0304 - built with React + Vite
         </span>
-        <span className="footer__back" onClick={scrollTop}>
-          Back to top ↑
-        </span>
+        <button className="footer__back" onClick={scrollTop}>
+          Back to top
+        </button>
       </div>
     </footer>
   )
