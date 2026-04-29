@@ -14,8 +14,8 @@
   --amber: #b45309;
   --shadow: 0 18px 45px rgba(31, 59, 94, 0.08);
 
-  --font-sans: 'Inter', system-ui, sans-serif;
-  --font-mono: 'JetBrains Mono', monospace;
+  --font-sans: 'Be Vietnam Pro', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
 
   --radius: 8px;
   --radius-sm: 6px;
@@ -38,8 +38,10 @@ body {
     linear-gradient(180deg, #ffffff 0%, var(--bg) 42%, #ffffff 100%);
   color: var(--text);
   font-family: var(--font-sans);
-  line-height: 1.6;
+  font-weight: 400;
+  line-height: 1.65;
   -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
 }
 
 button,
@@ -74,7 +76,8 @@ svg {
   color: var(--green);
   font-family: var(--font-mono);
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 0;
   margin-bottom: 12px;
   text-transform: uppercase;
 }
@@ -83,7 +86,7 @@ svg {
   color: var(--text);
   font-size: clamp(30px, 4vw, 44px);
   font-weight: 700;
-  line-height: 1.15;
+  line-height: 1.18;
   margin-bottom: 16px;
   max-width: 780px;
 }
@@ -91,6 +94,8 @@ svg {
 .section-sub {
   color: var(--text-muted);
   font-size: 17px;
+  font-weight: 400;
+  line-height: 1.75;
   max-width: 680px;
 }
 
@@ -127,7 +132,7 @@ svg {
 .navbar__links a {
   color: var(--text-muted);
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   transition: color var(--transition);
 }
 
@@ -140,7 +145,7 @@ svg {
   border-radius: var(--radius-sm);
   color: var(--accent);
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   padding: 8px 18px;
   transition: all var(--transition);
 }
@@ -172,7 +177,8 @@ svg {
   display: inline-flex;
   font-family: var(--font-mono);
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 500;
+  letter-spacing: 0;
   margin-bottom: 26px;
   padding: 7px 14px;
 }
@@ -180,8 +186,8 @@ svg {
 .hero__title {
   display: grid;
   font-size: clamp(48px, 7vw, 78px);
-  font-weight: 800;
-  line-height: 1.02;
+  font-weight: 700;
+  line-height: 1.08;
   margin-bottom: 22px;
 }
 
@@ -192,7 +198,8 @@ svg {
 .hero__sub {
   color: var(--text-muted);
   font-size: clamp(17px, 2vw, 20px);
-  line-height: 1.75;
+  font-weight: 400;
+  line-height: 1.8;
   max-width: 680px;
 }
 
@@ -209,7 +216,7 @@ svg {
   border-radius: 999px;
   color: var(--text-muted);
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 500;
   padding: 7px 12px;
 }
 
@@ -226,7 +233,7 @@ svg {
   cursor: pointer;
   display: inline-flex;
   font-size: 15px;
-  font-weight: 700;
+  font-weight: 600;
   gap: 8px;
   min-height: 46px;
   padding: 11px 22px;
@@ -277,14 +284,16 @@ svg {
   color: var(--amber);
   font-family: var(--font-mono);
   font-size: 12px;
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: 0;
   margin-bottom: 12px;
   text-transform: uppercase;
 }
 
 .hero__panel h2 {
   font-size: 26px;
-  line-height: 1.25;
+  font-weight: 600;
+  line-height: 1.35;
   margin-bottom: 24px;
 }
 
@@ -300,6 +309,7 @@ svg {
   color: var(--text-muted);
   display: block;
   font-size: 14px;
+  line-height: 1.65;
   padding: 12px 14px;
 }
 
@@ -339,7 +349,7 @@ svg {
   color: var(--accent);
   font-family: var(--font-mono);
   font-size: 25px;
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1;
   margin-bottom: 8px;
 }
@@ -365,7 +375,7 @@ svg {
   color: var(--accent);
   display: flex;
   font-size: 68px;
-  font-weight: 800;
+  font-weight: 700;
   justify-content: center;
   max-width: 280px;
   width: 100%;
@@ -409,7 +419,7 @@ svg {
   display: flex;
   font-family: var(--font-mono);
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 600;
   height: 38px;
   justify-content: center;
   width: 38px;
@@ -418,7 +428,7 @@ svg {
 .skill-card__title {
   color: var(--text);
   font-size: 16px;
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .skill-tags,
@@ -457,15 +467,16 @@ svg {
   color: var(--green);
   font-family: var(--font-mono);
   font-size: 12px;
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: 0;
   margin-bottom: 15px;
 }
 
 .project-card__title {
   color: var(--text);
   font-size: 20px;
-  font-weight: 700;
-  line-height: 1.3;
+  font-weight: 600;
+  line-height: 1.4;
   margin-bottom: 12px;
 }
 
@@ -483,7 +494,8 @@ svg {
   border-radius: var(--radius-sm);
   color: var(--green);
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 600;
+  line-height: 1.55;
   margin-bottom: 18px;
   padding: 10px 12px;
 }
@@ -503,7 +515,7 @@ svg {
   color: var(--text);
   display: inline-flex;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   gap: 6px;
   margin-top: auto;
   transition: color var(--transition);
@@ -517,7 +529,7 @@ svg {
   color: var(--text-muted);
   font-family: var(--font-mono);
   font-size: 12px;
-  font-weight: 700;
+  font-weight: 600;
   margin-top: auto;
 }
 
@@ -537,7 +549,7 @@ svg {
   color: var(--text-muted);
   display: inline-flex;
   font-size: 14px;
-  font-weight: 700;
+  font-weight: 600;
   gap: 10px;
   min-height: 48px;
   padding: 13px 18px;
@@ -574,6 +586,7 @@ svg {
   color: var(--text-muted);
   font-family: var(--font-mono);
   font-size: 13px;
+  font-weight: 500;
 }
 
 .footer__back {
