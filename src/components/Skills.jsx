@@ -1,33 +1,33 @@
 const skillGroups = [
   {
     icon: '01',
-    title: 'Backend',
-    tags: ['Node.js', 'NestJS', 'TypeScript', 'REST APIs'],
+    title: 'Engineering',
+    tags: ['Node.js', 'NestJS', 'TypeScript', 'REST APIs', 'Docker'],
   },
   {
     icon: '02',
-    title: 'Web fundamentals',
-    tags: ['HTML', 'CSS', 'JavaScript', 'React basics'],
+    title: 'Business analysis',
+    tags: ['Requirements analysis', 'User flows', 'Feature breakdown', 'Acceptance thinking'],
   },
   {
     icon: '03',
-    title: 'Data & storage',
-    tags: ['MongoDB', 'SQL Server', 'Redis basics', 'Data modeling'],
+    title: 'API & testing',
+    tags: ['API documentation', 'Postman', 'Test scenarios', 'Request/response flow'],
   },
   {
     icon: '04',
-    title: 'Tools',
-    tags: ['Docker', 'Docker Compose', 'Postman', 'Git', 'GitHub'],
+    title: 'Data & systems',
+    tags: ['MongoDB', 'SQL Server', 'Redis basics', 'Data modeling', 'Data flow'],
   },
   {
     icon: '05',
-    title: 'Project exposure',
+    title: 'System exposure',
     tags: ['MVC pattern', 'Microservices', 'RabbitMQ', 'Socket.IO', 'CI/CD basics'],
   },
   {
     icon: '06',
     title: 'Working habits',
-    tags: ['API testing', 'README docs', 'Debugging', 'Learning notes'],
+    tags: ['README docs', 'Debugging notes', 'Git/GitHub', 'Team coordination'],
   },
 ]
 
@@ -35,11 +35,12 @@ export default function Skills() {
   return (
     <section className="section" id="skills">
       <div className="container">
-        <p className="section-label">Tech Stack</p>
-        <h2 className="section-title">Skills I use in projects</h2>
+        <p className="section-label">Skills</p>
+        <h2 className="section-title">A practical mix of engineering and BA skills</h2>
         <p className="section-sub">
-          I keep the stack focused on backend fundamentals and the tools I have
-          used in school and personal repositories.
+          I keep my skills grounded in project work: understanding the feature,
+          documenting the flow, implementing the backend, and checking the
+          behavior through APIs and scenarios.
         </p>
 
         <div className="skills__grid">

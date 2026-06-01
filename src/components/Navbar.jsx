@@ -17,10 +17,15 @@ export default function Navbar() {
           Mỹ Uyên
         </a>
         <ul className="navbar__links">
-          {['about', 'skills', 'projects', 'contact'].map((s) => (
-            <li key={s}>
-              <a href={`#${s}`} onClick={(e) => { e.preventDefault(); scrollTo(s) }}>
-                {s.charAt(0).toUpperCase() + s.slice(1)}
+          {[
+            { id: 'about', label: 'About' },
+            { id: 'skills', label: 'Skills' },
+            { id: 'projects', label: 'Case Studies' },
+            { id: 'contact', label: 'Contact' },
+          ].map((s) => (
+            <li key={s.id}>
+              <a href={`#${s.id}`} onClick={(e) => { e.preventDefault(); scrollTo(s.id) }}>
+                {s.label}
               </a>
             </li>
           ))}

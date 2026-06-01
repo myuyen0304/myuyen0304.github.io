@@ -1,8 +1,8 @@
 const stats = [
   { num: 'IS', label: 'Academic background' },
   { num: '27', label: 'Public GitHub repos' },
-  { num: 'API', label: 'Backend focus' },
-  { num: 'Docker', label: 'Local deployment practice' },
+  { num: 'API', label: 'Engineering evidence' },
+  { num: 'Flow', label: 'BA thinking' },
 ]
 
 export default function About() {
@@ -13,25 +13,26 @@ export default function About() {
           <div>
             <p className="section-label">About me</p>
             <h2 className="section-title">
-              A backend fresher with an Information Systems foundation
+              A hybrid fresher who can read the problem and build the flow
             </h2>
             <p className="section-sub">
-              I am a final-year student preparing to graduate and looking for a
-              fresher backend opportunity. My strongest interest is building
-              clear API flows, organizing server-side code, and understanding
-              how services connect through databases, queues, and containers.
+              I am a final-year Information Systems student preparing for my
+              first professional role. My strongest direction is the space
+              between business requirements and backend implementation:
+              understanding what a feature needs to do, mapping the user and
+              data flow, then turning that into APIs, database behavior, and
+              testable scenarios.
             </p>
             <p className="section-sub" style={{ marginTop: 16 }}>
               My portfolio is project-based rather than work-experience based.
-              I use GitHub projects to show how I learn: reading requirements,
-              designing data flow, testing APIs with Postman, and documenting
-              how a system can run locally with Docker.
+              I use GitHub projects to show how I learn from both sides:
+              analyzing requirements and edge cases like a BA, then building
+              and documenting the technical flow like an engineer.
             </p>
             <p className="section-sub" style={{ marginTop: 16 }}>
-              My goal is to join a team where I can learn how real products are
-              prepared, deployed, and operated in production. I want to grow by
-              contributing to larger systems, understanding production
-              constraints, and turning backend ideas into usable products.
+              I want to join a team where I can contribute to APIs, databases,
+              documentation, and testing while learning how real products are
+              planned, validated, shipped, and improved with users in mind.
             </p>
 
             <div className="about__stats">

@@ -4,11 +4,12 @@ export default function Contact() {
       <div className="container">
         <div className="contact__inner">
           <p className="section-label">Contact</p>
-          <h2 className="section-title">Looking for fresher backend opportunities</h2>
+          <h2 className="section-title">Looking for fresher hybrid opportunities</h2>
           <p className="section-sub">
-            I am open to internship, fresher, or junior backend roles where I
-            can work with APIs, databases, TypeScript, and Docker while learning
-            from a real engineering team.
+            I am open to internship, fresher, or junior opportunities in
+            software engineering, backend development, IT business analysis, or
+            product-engineering teams where I can turn requirements into clear,
+            documented, and testable system behavior.
           </p>
 
           <div className="contact__links">

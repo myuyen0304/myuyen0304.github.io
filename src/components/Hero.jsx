@@ -7,24 +7,26 @@ export default function Hero() {
     <section className="hero" id="home">
       <div className="container hero__inner">
         <div className="hero__content">
-          <div className="hero__badge">Open to fresher backend roles</div>
+          <div className="hero__badge">Open to fresher hybrid roles</div>
 
           <h1 className="hero__title">
             Mỹ Uyên
-            <span>Backend Fresher</span>
+            <span>Engineer + BA</span>
           </h1>
 
           <p className="hero__sub">
-            Information Systems student focused on Node.js, NestJS, TypeScript,
-            REST APIs, and Docker. I am building practical backend projects
-            while preparing for my first professional software role.
+            Information Systems student who connects software engineering with
+            business analysis. I build backend APIs and also map requirements,
+            user flows, data flow, API behavior, and testing scenarios so a
+            feature is clear before and after implementation.
           </p>
 
           <div className="hero__meta" aria-label="Core profile">
             <span>Information Systems</span>
             <span>Node.js / NestJS</span>
-            <span>Docker</span>
-            <span>Postman</span>
+            <span>Requirements Analysis</span>
+            <span>API Documentation</span>
+            <span>Postman Testing</span>
           </div>
 
           <div className="hero__actions">
@@ -32,7 +34,7 @@ export default function Hero() {
               className="btn btn-primary"
               onClick={() => scrollTo('projects')}
             >
-              View Projects
+              View Case Studies
               <ArrowIcon />
             </button>
             <button
@@ -53,12 +55,12 @@ export default function Hero() {
         </div>
 
         <aside className="hero__panel" aria-label="Portfolio summary">
-          <p className="hero__panel-label">Focus</p>
-          <h2>Backend APIs, data flow, and containerized local setups.</h2>
+          <p className="hero__panel-label">Hybrid focus</p>
+          <h2>Turning product flows into documented, testable backend systems.</h2>
           <div className="hero__panel-list">
-            <span>Graduation project: high-concurrency ticketing</span>
-            <span>Microservices chat with RabbitMQ and Socket.IO</span>
-            <span>API testing and documentation with Postman</span>
+            <span>Analyze booking, chat, commerce, and data workflows</span>
+            <span>Design API/data flow before implementation</span>
+            <span>Validate behavior with Postman, README docs, and test scenarios</span>
           </div>
         </aside>
       </div>
